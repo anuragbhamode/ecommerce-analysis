@@ -1,0 +1,21 @@
+product,category,total_quantity,total_revenue,times_sold
+Yoga Mat,Sports,700,79636.46,363
+Running Shoes,Sports,737,76824.92,392
+Football,Sports,649,69719.92,342
+Tennis Racket,Sports,641,69537.93,329
+Dumbbell Set,Sports,649,69349.29,330
+Water Bottle,Sports,617,66839.74,322
+Keyboard,Electronics,674,56305.45,347
+Headphones,Electronics,669,56127.57,357
+Wireless Mouse,Electronics,627,53250.14,349
+Phone Case,Electronics,585,51121.48,311
+USB Cable,Electronics,591,50442.75,316
+Jacket,Clothing,688,47892.92,358
+Webcam,Electronics,570,47065.25,327
+Sweater,Clothing,637,45460.9,344
+T-Shirt,Clothing,630,44590.51,332
+Hat,Clothing,603,43442.91,313
+Jeans,Clothing,561,40461.36,322
+Shoes,Clothing,563,39270.2,290
+Candle,Home & Garden,692,31703.84,344
+Plant Pot,Home & Garden,614,29110.15,331
